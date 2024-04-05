@@ -39,3 +39,13 @@ terraform plan
 terraform apply -lock=false -auto-approve
 ```
 
+
+## Run the Development Server React
+- cd web
+- npm install
+- npm run start
+
+## Run the Development Server API
+- cd api
+- npm install
+- npm run start
